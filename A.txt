@@ -6,6 +6,13 @@ void func1() {
 }
 
 void func2() {
+<<<<<<< HEAD
 
 void func33() {
+=======
+}
+
+void func3goodname() {
+
+>>>>>>> 8f27fc075c861466ba9789aa7f649f6c46a1c629
 }
