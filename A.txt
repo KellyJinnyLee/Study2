@@ -2,8 +2,12 @@ void main() {
 	return 0;
 }
 
+<<<<<<< HEAD
 void func1() {
 }
 
 void func2() {
+=======
+void func1goodname(){
+>>>>>>> 3dc51829a41fdb788220ea5cb0aa25913012ad71
 }
