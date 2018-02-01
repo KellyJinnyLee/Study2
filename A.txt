@@ -1,1 +1,3 @@
-aa
+void main(){
+	return 0;
+}
